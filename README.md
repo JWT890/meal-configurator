@@ -1,4 +1,5 @@
 # meal-configurator
+Practice from watching a video and assistance with Bard to learn Vue with multiple components
 
 ## Project setup
 ```
